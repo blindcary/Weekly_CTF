@@ -33,5 +33,5 @@ A collection of write-ups and documentation from my weekly penetration testing l
 
 ---
 
-## 📜 Ethical Disclaimer
+## Ethical Disclaimer
 All activities documented in this repository were performed in a controlled, isolated laboratory environment for educational purposes. Unauthorized access to computer systems is illegal.
