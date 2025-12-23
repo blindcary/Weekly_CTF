@@ -18,5 +18,6 @@ Payload: admin@juice-sh.op'--
 
 Enter a dummy value in the Password field.
 
-Result: The backend executed the query SELECT * FROM Users WHERE email = 'admin@juice-sh.op'--' AND password = '...', which effectively ignores the password condition and logs the user in as the first matching record (Admin).
+## Result: 
+The backend executed the query SELECT * FROM Users WHERE email = 'admin@juice-sh.op'--' AND password = '...', which effectively ignores the password condition and logs the user in as the first matching record (Admin).
     <img width="1366" height="768" alt="Screenshot_20251223_111548" src="https://github.com/user-attachments/assets/fade0f0b-ac6a-41f5-89ec-f6bbcbffa844" />
